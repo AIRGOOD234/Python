@@ -13,6 +13,7 @@ score.grid(row=2)
 ebveibvfeg
 score: 1:1
 Егор негр  
+я вас ненавижу
     
 wf  wef wfe    
     
